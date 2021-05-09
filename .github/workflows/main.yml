@@ -19,6 +19,6 @@ jobs:
           SHOW_OS: "True"
           SHOW_LOC_CHART: "True"
 
-          SHOW_COMMIT: "False"
+          SHOW_COMMIT: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "True"
