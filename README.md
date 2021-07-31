@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 > 🏆 204 Contributions in the Year 2021
  > 
-> 📦 38.7 kB Used in Github's Storage 
+> 📦 38.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,16 +59,16 @@ Sunday       70 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Other                    19 hrs 10 mins      █████████████████████████   100.0%
+Other                    22 hrs 54 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  19 hrs 10 mins      █████████████████████████   100.0%
+Browser                  22 hrs 54 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-whatsapp-bot-boilerplate 19 hrs 10 mins      █████████████████████████   100.0%
+whatsapp-bot-boilerplate 22 hrs 54 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  19 hrs 10 mins      █████████████████████████   100.0%
+Windows                  22 hrs 54 mins      █████████████████████████   100.0%
 
 ```
 
@@ -89,5 +89,5 @@ PHP                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/samsab1995/samsab1995/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/07/2021
+ Last Updated on 31/07/2021
 <!--END_SECTION:waka-->
