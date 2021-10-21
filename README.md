@@ -98,5 +98,5 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/samsab1995/samsab1995/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/10/2021
+ Last Updated on 21/10/2021
 <!--END_SECTION:waka-->
