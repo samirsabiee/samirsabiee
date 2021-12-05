@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-867461%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-849433%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 765 Contributions in the Year 2021
  > 
-> 📦 49.7 kB Used in GitHub's Storage 
+> 📦 49.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,21 +59,16 @@ Sunday       198 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Other                    6 hrs 2 mins        ████████████████████████░   99.08% 
-PHP                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37% 
-Vue.js                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+Other                    5 hrs 34 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  6 hrs 2 mins        ████████████████████████░   99.08% 
-PhpStorm                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
+Browser                  5 hrs 34 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-nuxt-sms-panel           6 hrs 4 mins        █████████████████████████   99.63% 
-laravel-sms-api          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
+nuxt-sms-panel           5 hrs 34 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 6 mins        █████████████████████████   100.0%
+Windows                  5 hrs 34 mins       █████████████████████████   100.0%
 
 ```
 
@@ -94,5 +89,5 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/samsab1995/samsab1995/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/11/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
