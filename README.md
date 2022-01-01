@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 765 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 49.8 kB Used in GitHub's Storage 
  > 
@@ -59,16 +59,16 @@ Sunday       198 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Other                    5 hrs 31 mins       █████████████████████████   100.0%
+Other                    10 hrs 43 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  5 hrs 31 mins       █████████████████████████   100.0%
+Browser                  10 hrs 43 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-laravel_relation         5 hrs 31 mins       █████████████████████████   100.0%
+laravel_relation         10 hrs 43 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 hrs 31 mins       █████████████████████████   100.0%
+Windows                  10 hrs 43 mins      █████████████████████████   100.0%
 
 ```
 
@@ -89,5 +89,5 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/samsab1995/samsab1995/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
