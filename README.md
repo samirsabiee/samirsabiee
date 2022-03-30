@@ -59,16 +59,19 @@ Sunday       197 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 46 mins        █████████████████████████   99.96% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  1 hr 46 mins        █████████████████████████   99.96% 
+PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hairdresser              1 hr 46 mins        █████████████████████████   99.96% 
+the12emam                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 46 mins        █████████████████████████   100.0%
 
 ```
 
@@ -89,5 +92,5 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/samsab1995/samsab1995/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/03/2022 18:50:44 UTC
+ Last Updated on 30/03/2022 18:48:03 UTC
 <!--END_SECTION:waka-->
