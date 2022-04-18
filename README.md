@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 49.9 kB Used in GitHub's Storage 
+> 📦 49.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,5 +89,5 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/samsab1995/samsab1995/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/04/2022 18:47:05 UTC
+ Last Updated on 18/04/2022 18:53:29 UTC
 <!--END_SECTION:waka-->
