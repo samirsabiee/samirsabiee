@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-862%20Thousand%20lines%20of%20code-blue)
@@ -59,16 +61,16 @@ Sunday       191 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Other                    7 hrs 2 mins        █████████████████████████   100.0%
+Other                    1 hr 21 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  7 hrs 2 mins        █████████████████████████   100.0%
+Browser                  1 hr 21 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Digikala                 7 hrs 2 mins        █████████████████████████   100.0%
+Digikala                 1 hr 21 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  7 hrs 2 mins        █████████████████████████   100.0%
+Windows                  1 hr 21 mins        █████████████████████████   100.0%
 
 ```
 
@@ -89,5 +91,5 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/samsab1995/samsab1995/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 18:53:20 UTC
+ Last Updated on 07/05/2022 18:51:18 UTC
 <!--END_SECTION:waka-->
